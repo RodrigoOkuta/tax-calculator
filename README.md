@@ -1,6 +1,4 @@
-This project was created using create-react-app.
-
-Unfortunately, I do not have extensive experience using jest and enzyme. I have more experience testing Node.Js. However I tried my best to include some tests. I am willing to learn and improve my testing in the front-end.
+This a project to calculate you annual tax according to your gross income. It was created using create-react-app.
 
 To set up the application you just need to run "npm install"
 
